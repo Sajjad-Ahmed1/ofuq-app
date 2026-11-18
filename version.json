@@ -1,16 +1,16 @@
 {
   "student": {
-    "version": "1.0.1",
-    "build": 2,
+    "version": "1.0.2",
+    "build": 3,
     "minBuild": 1,
     "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Student.apk",
-    "notes": "صور الأخبار وصور الأسبوع من المدرسة، وتنبيه التحديث."
+    "notes": "تحسين الشريط السفلي وإزالة أيقونة الإشعارات من صفحة الرسائل."
   },
   "parent": {
-    "version": "1.0.1",
-    "build": 2,
+    "version": "1.0.2",
+    "build": 3,
     "minBuild": 1,
     "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Parent.apk",
-    "notes": "صور الأخبار من المدرسة، وإزالة الدخول عبر Google، وتنبيه التحديث."
+    "notes": "تحسين الشريط السفلي وإزالة أيقونة الإشعارات من صفحة الرسائل."
   }
 }
