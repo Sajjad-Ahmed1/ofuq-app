@@ -1,16 +1,16 @@
 {
   "student": {
+    "version": "1.0.5",
+    "build": 6,
+    "minBuild": 1,
+    "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Student.apk",
+    "notes": "أيقونة التطبيق الجديدة."
+  },
+  "parent": {
     "version": "1.0.4",
     "build": 5,
     "minBuild": 1,
-    "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Student.apk",
-    "notes": "رابط سياسة الخصوصية في صفحة حسابي."
-  },
-  "parent": {
-    "version": "1.0.3",
-    "build": 4,
-    "minBuild": 1,
     "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Parent.apk",
-    "notes": "رابط سياسة الخصوصية في صفحة حسابي."
+    "notes": "أيقونة التطبيق الجديدة."
   }
 }
