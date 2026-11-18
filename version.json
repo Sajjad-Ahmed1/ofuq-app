@@ -1,16 +1,16 @@
 {
   "student": {
+    "version": "1.0.4",
+    "build": 5,
+    "minBuild": 1,
+    "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Student.apk",
+    "notes": "رابط سياسة الخصوصية في صفحة حسابي."
+  },
+  "parent": {
     "version": "1.0.3",
     "build": 4,
     "minBuild": 1,
-    "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Student.apk",
-    "notes": "الشريط السفلي في صفحة الجدول، وترتيب رأس الصفحة، وإصلاح اسم المعلم."
-  },
-  "parent": {
-    "version": "1.0.2",
-    "build": 3,
-    "minBuild": 1,
     "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Parent.apk",
-    "notes": "تحسين الشريط السفلي وإزالة أيقونة الإشعارات من صفحة الرسائل."
+    "notes": "رابط سياسة الخصوصية في صفحة حسابي."
   }
 }
