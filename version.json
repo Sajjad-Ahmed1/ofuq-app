@@ -1,10 +1,10 @@
 {
   "student": {
-    "version": "1.0.5",
-    "build": 6,
+    "version": "1.0.6",
+    "build": 7,
     "minBuild": 1,
     "url": "https://github.com/Sajjad-Ahmed1/ofuq-app/raw/main/OFUQ-Student.apk",
-    "notes": "أيقونة التطبيق الجديدة."
+    "notes": "تفعيل إشعارات المدرسة لكل المستخدمين."
   },
   "parent": {
     "version": "1.0.4",
